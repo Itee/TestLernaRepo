@@ -4,7 +4,7 @@
   "description": "a test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo run test from test-lerna-a"
   },
   "repository": {
     "type": "git",
