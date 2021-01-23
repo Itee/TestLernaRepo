@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Itee/test-lerna-b/issues"
   },
-  "homepage": "https://github.com/Itee/test-lerna-b#readme"
+  "homepage": "https://github.com/Itee/test-lerna-b#readme",
+  "dependencies": {
+    "foobar": "file:../foobar"
+  }
 }
